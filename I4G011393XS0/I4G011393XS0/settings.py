@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'I4G0015401F9.urls'
+ROOT_URLCONF = 'I4G011393XS0.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'I4G0015401F9.wsgi.application'
+WSGI_APPLICATION = 'I4G011393XS0.wsgi.application'
 
 
 # Database
